@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Вступление
+На этой странице ты сможешь познакомиться с основами Html и Css, а также сделаешь несколько страниц. Для начала мы ознакомимся с Github'ом, а после перейдём к вёрстке и JS. Тут не будет чего-то сложного, но если что-то не понятно — гугл всегда поможет.
 
-You can use the [editor on GitHub](https://github.com/efroostrf/okeywecan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Для написания кода ты можешь использовать любую IDE или же [`Codepen`](https://codepen.io/pen/) В нём быстро и легко можно написать любой код.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Github
+Для создания больших или же маленьких проектов всегда понадобится [Github](https://github.com/). Большая часть IDE для программирования умеют самостоятельно работать с ним, но для начала я рекомендую установить [Github Desktop](https://desktop.github.com/). 
 
-### Markdown
+##### Для чего вообще нужен этот ваш Github?
+По запросу в Google можно получить что-то такое: "GitHub — крупнейший веб-сервис для хостинга IT-проектов и их совместной разработки". Собственно, для этого он и нужен. Совместная разработка открывает много возможностей. Ещё он добавляет возможность отслеживать изменения в коде и возвращаться к прошлым версиям, если в этом будет необходимость. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## JavaScript
+Его придётся использовать чаще всего. Задача для новичка - понять что он из себя представляет и ознакомиться для работы. Я оставлю несколько заданий, а также ссылки на части учебника [Современный учебник JavaScript](https://learn.javascript.ru/), которые считаю полезными. Почти везед есть задачки в конце страницы. Рекомендую их решать.
 
-```markdown
-Syntax highlighted code block
+##### Современный учебник JavaScript
+Я выделил основное, что стоит знать для старта. Да, там много всего ещё. Если будет желание - почитай и другое, но главное перейти к практике. Напоминаю, внизу в этом учебнике есть задания (не везде, но есть).
+- [Всё кратко](https://learn.javascript.ru/javascript-specials);
+- Как открывать [консоль](https://learn.javascript.ru/devtools) (без неё разработка не такая крутая);
+- [Структура и комментарии](https://learn.javascript.ru/structure);
+- [Переменные](https://learn.javascript.ru/variables) (штуки, куда мы записываем информацию);
+- [Типы данных](https://learn.javascript.ru/types) (полезно для саморазвития);
+- [Преобразование типов](https://learn.javascript.ru/type-conversions);
+- [Математикаа](https://learn.javascript.ru/operators);
+- [Сравнение всяких штук](https://learn.javascript.ru/comparison);
+- [Сравниваем и что-то делаем](https://learn.javascript.ru/ifelse);
+- [Сравниваем несколько значений сразу](https://learn.javascript.ru/logical-operators) (Логические операторы);
+- [progressInJS ?? "я неудачник"](https://learn.javascript.ru/nullish-coalescing-operator);
+- [Циклы и почему они такие крутые](https://learn.javascript.ru/while-for);
+- [Функции](https://learn.javascript.ru/function-basics) - большую часть времени ты будешь работать с ними;
+- Пиши код вот [так](https://learn.javascript.ru/coding-style);
+- [JSON](https://learn.javascript.ru/json) - с ним придётся работать ОЧЕНЬ много;
 
-# Header 1
-## Header 2
-### Header 3
+##### От себя
+Все названия переменных, методов и прочих штук должны быть **на английском**! Конечно, на русском не получится, оно не заработает. Но писать что-то вроде "privet", а не "hello" это просто убейся. Конечно, сложно, если у тебя нет достаточного знания английского (хотя-бы поверхостного). Можно использовать переводчик, как раз наберётся база английских слов.
 
-- Bulleted
-- List
+Не пытайся забить в голову сразу весь материал, это так не сработает. Применяй его **по мере необходимости**. Хочешь создать переменную, но забыл что это `var name = ...`? Залезь в учебник и посмотри как это сделать.
 
-1. Numbered
-2. List
+Если что-то не получается — пни меня. Я подскажу как решить проблемы. По концу написания твоего кода я посмотрю на то, как ты его написал, и дам советы. Ну или ты умничка и даже советовать ничего не придётся.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/efroostrf/okeywecan/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Комментируй код если тебе он не понятен**. Комментарии делаются через `//`, они помогут тебе не застрять на каком-то одном месте. 
